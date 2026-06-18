@@ -1,0 +1,29 @@
+---
+
+name: Feature request
+about: Foreslå en ny funktion eller forbedring
+title: "[Feature] "
+labels: feature
+---------------
+
+## Forslag
+
+Beskriv funktionen.
+
+## Problem
+
+Hvilket problem løser det?
+
+## Eksempel
+
+Hvordan ville du bruge det i appen?
+
+## Prioritet
+
+* Lav
+* Mellem
+* Høj
+
+## Ekstra info
+
+Screenshots, inspiration eller lignende.
